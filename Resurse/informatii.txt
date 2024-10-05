@@ -1,0 +1,5 @@
+﻿catbehindlaptop.png;sub laptop;in spatele laptopului;in fata laptopului;2;
+catbetweenboxes.png;intre cutii;pe cutii;sub cutii;1;
+catonbed.png;sub pat;langa pat;in pat;3;
+catonshelf.png;pe raft;sub raft;langa raft;1;
+catundertable.png;pe masa;in fata mesei;sub masa;3;
